@@ -9,3 +9,7 @@
 - Подсчёт правильных и неправильных ответов.
 
 ## Скриншоты:
+![alt text](main-screen-1.png)
+![alt text](correct-answer.png)
+![alt text](wrong-answer.png)
+![alt text](with-stats.png)
